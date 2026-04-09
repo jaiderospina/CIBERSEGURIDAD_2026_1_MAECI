@@ -711,10 +711,10 @@ Con 33 referencias, SSDF aparece concentrado en subcategorías de protección y 
 
 ## Notas de Uso
 
-- Las referencias en columna E son **informativas** (no prescriptivas): el CSF 2.0 no exige implementar todos los controles de cada marco, sino que los señala como recursos de implementación compatibles.
+- El CSF 2.0 no exige implementar todos los controles de cada marco, sino que los señala como recursos de implementación compatibles.
 - La presencia de un control en múltiples marcos (p.ej., monitoreo de logs aparece en SP 800-53 AU-12, ISO 27001 A.8.15, PCI DSS 10.2, CCMv4.0 LOG-04) permite a las organizaciones satisfacer múltiples obligaciones con una única implementación técnica.
 - Para organizaciones de defensa, los marcos más relevantes son: **SP 800-53**, **SP 800-171**, **SP 800-37 RMF**, **NICE Framework** y **SSDF** — todos de origen NIST y con respaldo contractual en el ecosistema de defensa de EE.UU. y sus aliados.
 
 ---
 
-*Documento generado a partir del archivo csf2.xlsx — Hoja "CSF 2.0", Columna E (Informative References) — NIST Cybersecurity Framework 2.0*
+
