@@ -1,7 +1,6 @@
 # Referencias Normativas — NIST CSF 2.0
-## Informative References: Columna E, Hoja "CSF 2.0"
 
-Este documento describe cada marco normativo referenciado en el NIST Cybersecurity Framework 2.0, identificado a partir de la columna E ("Informative References") de la hoja de cálculo oficial. Se documentan 17 marcos, con sus controles representativos, relevancia en ciberdefensa y ejemplos de aplicación práctica.
+Este documento describe cada marco normativo referenciado en el NIST Cybersecurity Framework 2.0. Se documentan 17 marcos, con sus controles representativos, relevancia en ciberdefensa y ejemplos de aplicación práctica.
 
 ---
 
