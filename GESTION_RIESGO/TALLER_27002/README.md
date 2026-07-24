@@ -632,7 +632,7 @@ Esto producirá:
 
 # 17. Producto final
 
-Prsentación en clase 15 - 20 minutos con: 
+Presentación en clase 15 - 20 minutos con: 
 
 ## 1. Documento de investigación
 
@@ -651,17 +651,6 @@ Explicar por qué el problema puede afectar:
 * Infraestructura crítica.
 * Autonomía estratégica.
 
-### 3. Marco conceptual
-
-Incluir:
-
-* Riesgo cibernético.
-* Amenaza.
-* Vulnerabilidad.
-* Activo crítico.
-* Infraestructura crítica.
-* Dependencia tecnológica.
-* Autonomía estratégica.
 
 ### 4. Análisis del escenario
 
@@ -715,12 +704,7 @@ Responder:
 
 ---
 
-# 18. Presentación final
-
-Cada grupo dispondrá de **15 minutos**.
-
-La presentación deberá responder:
-
+# Resumen:
 ### 1. ¿Cuál es el problema?
 
 ### 2. ¿Cuál es el activo estratégico afectado?
@@ -784,26 +768,12 @@ Cada grupo deberá presentar un esquema similar al siguiente:
 │ Autonomía estratégica     │
 └──────────────────────────┘
 ```
+Y logicamente tabla de controles según desarrollo de clase.
 
 ---
 
-# 20. Rúbrica de evaluación
 
-| Criterio                                                                                     |      Peso |
-| -------------------------------------------------------------------------------------------- | --------: |
-| Comprensión del problema estratégico                                                         |      15 % |
-| Calidad de la investigación                                                                  |      15 % |
-| Identificación del riesgo cibernético                                                        |      15 % |
-| Integración de dimensiones tecnológicas, geopolíticas, económicas, logísticas y estratégicas |      15 % |
-| Calidad y pertinencia de los controles                                                       |      20 % |
-| Aplicación de los atributos de los controles                                                 |      10 % |
-| Capacidad de argumentación y defensa                                                         |       5 % |
-| Presentación y calidad del producto final                                                    |       5 % |
-| **Total**                                                                                    | **100 %** |
-
----
-
-# 21. Resultado esperado
+# Resultado esperado
 
 El trabajo deberá demostrar que los estudiantes comprenden que:
 
