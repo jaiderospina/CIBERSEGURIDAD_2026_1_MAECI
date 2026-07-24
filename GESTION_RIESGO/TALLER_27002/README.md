@@ -269,9 +269,7 @@ El grupo deberá utilizar una matriz de riesgo.
 
 ## Fórmula básica
 
-[
-R = P \times I
-]
+
 
 Donde:
 
@@ -634,21 +632,12 @@ Esto producirá:
 
 # 17. Producto final
 
-El trabajo deberá entregar:
+Prsentación en clase 15 - 20 minutos con: 
 
 ## 1. Documento de investigación
 
 Con la siguiente estructura:
 
-### Portada
-
-* Universidad.
-* Programa.
-* Asignatura.
-* Título.
-* Integrantes.
-* Docente.
-* Fecha.
 
 ### 1. Introducción
 
